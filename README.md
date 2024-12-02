@@ -23,7 +23,7 @@
 4. (Optional) Configure delay for refreshing online status:
 Set the DELAY_SECONDS environment variable to customize the delay (default is 45 seconds):
    ```bash
-export DELAY_SECONDS=15
+   export DELAY_SECONDS=15
    ```
    
 ---
